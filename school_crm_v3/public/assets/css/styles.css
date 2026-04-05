@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; }
+.layout { display: flex; min-height: 100vh; }
+.sidebar { width: 220px; background: #1f2933; color: #fff; padding: 20px; }
+.sidebar a { display: block; color: #fff; text-decoration: none; margin: 8px 0; }
+.main { flex: 1; background: #f5f7fa; }
+.topbar { padding: 10px 20px; background: #fff; border-bottom: 1px solid #ddd; }
+.content { padding: 20px; }
+.footer { text-align: center; padding: 10px; background: #111827; color: #fff; }
